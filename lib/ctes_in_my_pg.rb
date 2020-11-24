@@ -1,3 +1,4 @@
+require 'active_record'
 require "ctes_in_my_pg/version"
 #require 'byebug'
 
